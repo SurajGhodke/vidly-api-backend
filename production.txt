@@ -1,0 +1,8 @@
+//prepararing app for production
+need to install some packages
+
+npm  i helmet
+npm i compression
+
+create prod.js in startup folder
+add prod.js to the index.js
